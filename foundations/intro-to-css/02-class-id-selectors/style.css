@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+p {
+    background:pink;
+    font-family: "verdana", "DejaVu Sans", sans-serif;
+}
+
+#disID {
+    color: blue;
+    font-size: 36px;
+}
+
+p.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
